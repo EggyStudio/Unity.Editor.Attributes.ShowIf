@@ -1,5 +1,5 @@
 {
-    "name": "UnityEssentials.ShowIfAttribute",
+    "name": "UnityEssentials.Editor.Attributes.ShowIf",
     "rootNamespace": "UnityEssentials",
     "references": [],
     "includePlatforms": [],
